@@ -1,0 +1,13 @@
+{
+  "name": "reminder_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for reminders",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
